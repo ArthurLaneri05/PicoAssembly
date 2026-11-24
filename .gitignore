@@ -1,0 +1,15 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+.venv/
+__pycache__/
+*.py[cod]
+
+cache.bin
+cache.bin.tmp
+stages/
+
+.DS_Store
